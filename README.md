@@ -1,6 +1,6 @@
 # Modelling Interventions to Combat Antibacterial Resistance in East Africa Using Causal Bayesian Networks
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/956904441.svg)](https://doi.org/10.5281/zenodo.21595803)
 
 This repository provides the official source code, high-performance computing (HPC) deployment scripts, and analytical workflows for the manuscript:
 > **Modelling interventions to combat antibacterial resistance in East Africa using causal Bayesian networks**  
