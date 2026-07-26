@@ -113,16 +113,22 @@ sbatch run_causal_array.sh
 
 ---
 
-## 📄 License & Citation
+## 📄 Manuscript Status & Citation
+
+This repository provides code and analytical pipelines for the manuscript currently under revision:
+
+> **Modelling interventions to combat antibacterial resistance in East Africa using causal Bayesian networks**  
+> *Xuejia et al.* (Under revision at *Communications Medicine*)
 
 This codebase is made available under the [MIT License](LICENSE).
 
-If you use this repository in your research, please cite:
+If you use this code or methodology in your work, please reference this repository or pre-print (if available):
 ```bibtex
-@article{Xuejia2026CausalBN,
-  title={Modelling interventions to combat antibacterial resistance in East Africa using causal Bayesian networks},
-  author={Xuejia et al.},
-  journal={Communications Medicine},
-  year={2026}
+@misc{Xuejia2026CausalBN,
+  author = {Xuejia et al.},
+  title = {Modelling interventions to combat antibacterial resistance in East Africa using causal Bayesian networks},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{[https://github.com/thebestecho/causalBN4HATUA](https://github.com/thebestecho/causalBN4HATUA)}}
 }
-```
